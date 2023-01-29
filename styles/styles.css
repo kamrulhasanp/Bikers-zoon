@@ -1,0 +1,9 @@
+.bz-light-red{
+    background-color: rgb(174, 101, 101);
+}
+.gaps{
+    gap: 30px;
+}
+.download-img{
+    background-color: transparent !important;
+}
